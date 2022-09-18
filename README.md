@@ -2,6 +2,7 @@
 
 https://verreauxx.github.io/Code-Refeactor/
 
+![image](https://user-images.githubusercontent.com/101163927/190880432-27782fa2-dc8b-41a2-83b3-55641370f09f.png)
 
 
 GIVEN a webpage meets accessibility standards
